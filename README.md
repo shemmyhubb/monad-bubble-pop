@@ -10,4 +10,3 @@ A fun bubble popping game built with HTML, CSS, and JavaScript that integrates w
 - 🎮 Wallet integration with MetaMask
 - 📊 Smart contract for score tracking
 
-## Installation
