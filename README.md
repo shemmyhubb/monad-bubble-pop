@@ -11,7 +11,3 @@ A fun bubble popping game built with HTML, CSS, and JavaScript that integrates w
 - 📊 Smart contract for score tracking
 
 ## Installation
-
-1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/monad-bubble-pop.git
